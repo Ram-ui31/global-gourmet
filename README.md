@@ -1,8 +1,8 @@
 # global-gourmet
-# Vanguard Sovereign: Multi-Stage Logistics & Predictive Risk Engine
+# Prime Meridian: Multi-Stage Logistics & Predictive Risk Engine
 ### Lead Data Science Taskforce | Ingenium - IIT Indore
 
-**Vanguard Sovereign** is an end-to-end predictive architecture designed to solve the "Golden Table" problem in urban logistics. Developed for the Global Gourmet Challenge, this system bridges the gap between raw spatio-temporal telemetry and high-level economic optimization.
+**Prime Meridian** is an end-to-end predictive architecture designed to solve the "Golden Table" problem in urban logistics. Developed for the Global Gourmet Challenge, this system bridges the gap between raw spatio-temporal telemetry and high-level economic optimization.
 
 ---
 
